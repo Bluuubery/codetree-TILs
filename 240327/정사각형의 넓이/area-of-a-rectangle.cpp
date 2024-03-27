@@ -9,7 +9,7 @@ int main() {
 
     int area = n * n;
 
-    if (n >= 5) {
+    if (area >= 5) {
         cout << area;
     } else {
         cout << "tiny";
