@@ -12,7 +12,7 @@ int main() {
     if (n >= 5) {
         cout << area;
     } else {
-        cout << area << endl
+        cout << area << endl;
         cout << "tiny";
     }
 
