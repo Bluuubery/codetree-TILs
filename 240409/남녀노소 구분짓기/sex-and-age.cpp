@@ -18,7 +18,7 @@ int main() {
 
     else {
         if (age >= 19) {
-            cout << "WONMAN";
+            cout << "WOMAN";
         } else {
             cout << "GIRL";
         }
