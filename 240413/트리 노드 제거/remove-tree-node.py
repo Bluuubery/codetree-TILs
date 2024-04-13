@@ -37,6 +37,6 @@ def dfs(node):
 
 deleted[target] = True
 
-dfs(node)
+dfs(root)
 
 print(ans)
