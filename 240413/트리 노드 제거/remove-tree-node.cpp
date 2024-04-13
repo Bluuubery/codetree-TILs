@@ -42,7 +42,7 @@ int main() {
         x = i;
         y = par[i];
 
-        if (y == 1) {
+        if (y == -1) {
             root = x;
             continue;
         }
